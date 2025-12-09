@@ -39,8 +39,8 @@ const greetings = [
   "MERRY CHRISTMAS HANG!",
   "CHÚC GIÁNG SINH AN LÀNH!",
   "MÃI YÊU EM!",
-  "CHÚC VỢ LUÔN VUI VẺ VÀ KHỎE MẠNH!",
-  "ANH LUÔN Ở BÊN VỢ!"
+  "CHÚC EM LUÔN VUI VẺ VÀ KHỎE MẠNH!",
+  "ANH LUÔN Ở BÊN EM!"
 ];
 const typingSpeed = 80;
 const messagePause = 1500;
